@@ -19,7 +19,7 @@ This repository contains the deliverables for the Cyber Security Internship Task
 
 ## Instructions to View
 1. Download the repository as a ZIP or clone it.
-2. Open `capture_sanitized.pcap` in Wireshark to explore the network traffic.
+2. Open `capture_sanitized_anon.pcap` in Wireshark to explore the network traffic.
 3. Read the `Report.pdf` for the summary, analysis, and observations.
 
 ## Notes
