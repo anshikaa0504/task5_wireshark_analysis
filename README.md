@@ -5,7 +5,7 @@ This repository contains the deliverables for the Cyber Security Internship Task
 
 ## Files Included
 1. **Report.pdf** – A detailed report summarizing the packet capture, filters used, protocols identified, and observations.  
-2. **capture_sanitized.pcap** – The sanitized packet capture file used for analysis, with all sensitive information (IP addresses, MAC addresses, and payloads) anonymized.
+2. **capture_sanitized_anon.pcap** – The sanitized packet capture file used for analysis, with all sensitive information (IP addresses, MAC addresses, and payloads) anonymized.
 
 ## Tools Used
 - [Wireshark](https://www.wireshark.org/) – For capturing and analyzing network traffic.
